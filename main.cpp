@@ -58,85 +58,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:dog
+//  action 1:growl
+dog.growl();
+//  action 2:run
+dog.run();
+//  action 3:bark
+dog.bark();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:car
+//  action 1:stop
+car.stop();
+//  action 2:turn left
+car.turnLeft();
+//  action 3:accelerates
+car.accelerate();
  
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:light
+//  action 1:dims
+light.dim();
+//  action 2:turns off
+light.turnOff;
+//  action 3:changes color
+light.changeColor(); 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:baby
+//  action 1:cry
+baby.cry();
+//  action 2:poop
+baby.poop();
+//  action 3:eat
+baby.eat();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:ball
+//  action 1:bounce
+ball.bounce();
+//  action 2:deflate
+ball.deflate();
+//  action 3:roll
+ball.roll(); 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:plant
+//  action 1:grow
+plant.grow();
+//  action 2:whither
+plant.whither();
+//  action 3:bear fruit
+plant.bearFruit 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:hand
+//  action 1:open
+hand.open();
+//  action 2:close
+hand.close();
+//  action 3:rotate clockwise
+hand.rotateClockwise(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:raccoon
+//  action 1:steal cat food
+raccoon.stealCatFood();
+//  action 2:run away
+racoon.runAway();
+//  action 3:climb
+raccoon.climb(); 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:person
+//  action 1:walk
+person.walk();
+//  action 2:talk
+person.talk();
+//  action 3:swim
+person.swim(); 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:snake
+//  action 1:slither
+snake.slither();
+//  action 2:eat
+snake.eat();
+//  action 3:shed skin
+snake.shedSkin(); 
 
 
 #endif
