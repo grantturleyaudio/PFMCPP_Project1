@@ -79,7 +79,7 @@ car.accelerate();
 //  action 1:dims
 light.dim();
 //  action 2:turns off
-light.turnOff;
+light.turnOff();
 //  action 3:changes color
 light.changeColor(); 
 //  4)
@@ -105,7 +105,7 @@ plant.grow();
 //  action 2:whither
 plant.whither();
 //  action 3:bear fruit
-plant.bearFruit 
+plant.bearFruit();
 //  7)
 //  Noun:hand
 //  action 1:open
